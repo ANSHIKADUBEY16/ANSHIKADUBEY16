@@ -1,7 +1,7 @@
 Hello,I'm Anshika Dubey
 
 # 💫 About Me:
-Currently pursuing M.Tech in Artificial Intelligence at VIT Bhopal<br> Focused on building practical systems using machine learning and web technologies
+Currently pursuing Int M.Tech in Artificial Intelligence at VIT Bhopal<br> Focused on building practical systems using machine learning and web technologies
 Interested in solving real-world problems through structured and scalable solutions.
 
 ## 🌐 Socials:
